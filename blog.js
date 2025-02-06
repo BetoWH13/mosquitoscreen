@@ -12,15 +12,11 @@ function initializePagination() {
         if (!pageDiv) {
             pageDiv = document.createElement('div');
             pageDiv.id = 'page' + pageNumber;
-            pageDiv.style.display = 'none';
             document.querySelector('.blog-content').appendChild(pageDiv);
         }
         
         pageDiv.appendChild(articles[i]);
     }
-    
-    // Show first page
-    document.getElementById('page1').style.display = 'block';
     
     // Create pagination controls
     const paginationNav = document.querySelector('.pagination');
@@ -30,7 +26,6 @@ function initializePagination() {
         const pageLink = document.createElement('a');
         pageLink.href = '#';
         pageLink.textContent = i;
-        if (i === 1) pageLink.classList.add('active');
         pageLink.onclick = function(e) {
             e.preventDefault();
             showPage(i);
@@ -38,6 +33,9 @@ function initializePagination() {
         };
         paginationNav.appendChild(pageLink);
     }
+
+    // Show the first page
+    showPage(1);
 }
 
 function showPage(pageNumber) {

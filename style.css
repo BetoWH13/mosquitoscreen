@@ -142,6 +142,11 @@ main {
     margin-bottom: 10px;
 }
 
+/* Blog page containers initial state */
+.blog-content > div[id^="page"] {
+    display: none;
+}
+
 /* Back Navigation */
 .back-nav {
     margin-bottom: 2rem;
