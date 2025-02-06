@@ -159,6 +159,71 @@ main {
     color: #0066cc;
 }
 
+/* Local Pest Control Page Styles */
+.content-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.content-section section {
+    margin-bottom: 2.5rem;
+}
+
+.content-section h2 {
+    color: #333;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.content-section h3 {
+    color: #444;
+    margin-bottom: 1.5rem;
+}
+
+.content-section ul, 
+.content-section ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.content-section li {
+    margin-bottom: 0.75rem;
+}
+
+.cta-button {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+hr {
+    margin: 3rem 0;
+    border: none;
+    border-top: 1px solid #eee;
+}
+
+.contact-info {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
 /* Footer */
 footer {
     text-align: center;
