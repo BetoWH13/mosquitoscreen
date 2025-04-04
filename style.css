@@ -296,6 +296,13 @@ footer {
 .pagination a.disabled {
     color: #999;
     pointer-events: none;
+    opacity: 0.6;
+}
+
+.pagination a.prev,
+.pagination a.next {
+    padding: 8px 16px;
+    font-weight: 500;
 }
 
 /* Responsive design */
