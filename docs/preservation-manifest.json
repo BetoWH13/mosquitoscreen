@@ -1,0 +1,1135 @@
+﻿{
+    "captured_at_utc":  "2026-08-06T20:29:26Z",
+    "source_commit":  "699875dc7a097dc63db28921d08b642d9731aee9",
+    "canonical_host":  "https://www.mosquitoscreen.net",
+    "preservation_policy":  {
+                                "retain_existing_html_paths":  true,
+                                "affiliate_destinations_must_not_change":  true,
+                                "legacy_redirects":  {
+                                                         "/bed-nets.html":  "/mosquito-net-for-bed.html"
+                                                     }
+                            },
+    "summary":  {
+                    "html_page_count":  42,
+                    "affiliate_placement_count":  25,
+                    "unique_affiliate_target_count":  6
+                },
+    "affiliate_targets":  [
+                              "https://amzn.to/3CzIM97",
+                              "https://amzn.to/3Ly8pf7",
+                              "https://amzn.to/40OHcby",
+                              "https://amzn.to/49Eg0BX",
+                              "https://amzn.to/4hL2Zrl",
+                              "https://amzn.to/4raST7V"
+                          ],
+    "pages":  [
+                  {
+                      "source_path":  "affiliate.html",
+                      "live_url":  "https://www.mosquitoscreen.net/affiliate.html",
+                      "title":  "Affiliate Disclosure - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/affiliate.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "bed/basics.html",
+                      "live_url":  "https://www.mosquitoscreen.net/bed/basics.html",
+                      "title":  "Bed Mosquito Net Basics",
+                      "meta_description":  "Understand what mosquito bed nets do, main styles, and realistic expectations for comfort, airflow, and protection.",
+                      "canonical":  "https://www.mosquitoscreen.net/bed/basics.html",
+                      "h1":  [
+                                 "Bed Net Basics"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/49Eg0BX"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "hanging-installation.html",
+                                             "materials.html",
+                                             "sizing-guide.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "bed/hanging-installation.html",
+                      "live_url":  "https://www.mosquitoscreen.net/bed/hanging-installation.html",
+                      "title":  "Hanging \u0026 Installing a Bed Mosquito Net",
+                      "meta_description":  "Learn simple methods to hang mosquito nets for beds. Ceiling hooks, frames, and travel-friendly options explained.",
+                      "canonical":  "https://www.mosquitoscreen.net/bed/hanging-installation.html",
+                      "h1":  [
+                                 "Hanging \u0026 Installation"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/49Eg0BX"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "basics.html",
+                                             "materials.html",
+                                             "sizing-guide.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "bed/materials.html",
+                      "live_url":  "https://www.mosquitoscreen.net/bed/materials.html",
+                      "title":  "Bed Mosquito Net Materials: Nylon vs Polyester",
+                      "meta_description":  "Compare nylon, polyester, and cotton mosquito nets for beds. Learn durability, airflow, and care differences.",
+                      "canonical":  "https://www.mosquitoscreen.net/bed/materials.html",
+                      "h1":  [
+                                 "Bed Net Materials"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/49Eg0BX"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "basics.html",
+                                             "hanging-installation.html",
+                                             "sizing-guide.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "bed/sizing-guide.html",
+                      "live_url":  "https://www.mosquitoscreen.net/bed/sizing-guide.html",
+                      "title":  "How to Choose the Right Size Bed Mosquito Net",
+                      "meta_description":  "Learn how to measure your bed correctly so your mosquito net fits securely without sagging or gaps.",
+                      "canonical":  "https://www.mosquitoscreen.net/bed/sizing-guide.html",
+                      "h1":  [
+                                 "Bed Net Sizing Guide"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/49Eg0BX"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "basics.html",
+                                             "hanging-installation.html",
+                                             "materials.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "bed-nets.html",
+                      "live_url":  "https://www.mosquitoscreen.net/bed-nets.html",
+                      "title":  "Mosquito Net for Bed - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  null,
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "bed-nets.html",
+                                             "index.html",
+                                             "magnetic-doors.html",
+                                             "privacy.html",
+                                             "terms.html"
+                                         ],
+                      "preservation_action":  "301 to /mosquito-net-for-bed.html"
+                  },
+                  {
+                      "source_path":  "blog.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog.html",
+                      "title":  "Blog - MosquitoScreen.net | Mosquito Protection Tips \u0026 Guides",
+                      "meta_description":  "Discover expert mosquito protection tips, DIY guides, and product reviews. Learn how to keep your home mosquito-free with our comprehensive blog articles.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "Latest Blog Posts"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "blog-posts/best-camping-mosquito-nets.html",
+                                             "blog-posts/choose-right-mosquito-net.html",
+                                             "blog-posts/clean-and-maintain-mosquito-screens.html",
+                                             "blog-posts/creative-uses-for-mosquito-nets.html",
+                                             "blog-posts/diy-magnetic-screen-installation-hacks.html",
+                                             "blog-posts/diy-natural-mosquito-repellents.html",
+                                             "blog-posts/magnetic-vs-velcro-screens.html",
+                                             "blog-posts/mosquito-entry-points.html",
+                                             "blog-posts/mosquito-proof-home-without-chemicals.html",
+                                             "blog-posts/natural-plants-that-repel-mosquitoes.html",
+                                             "blog-posts/nylon-vs-polyester-nets.html",
+                                             "blog-posts/reduce-mosquitoes-in-backyard.html",
+                                             "blog-posts/science-behind-mosquito-nets.html",
+                                             "blog-posts/top-5-mistakes-mosquito-nets.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "magnetic-doors.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/best-camping-mosquito-nets.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/best-camping-mosquito-nets.html",
+                      "title":  "The Best Mosquito Nets for Camping in 2025 - MosquitoScreen.net",
+                      "meta_description":  "Discover the top mosquito nets for camping in 2025, from lightweight pop-up tents to large family canopies. Find the perfect net for your outdoor adventure.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/best-camping-mosquito-nets.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "The Best Mosquito Nets for Camping in 2025"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "diy-natural-mosquito-repellents.html",
+                                             "nylon-vs-polyester-nets.html",
+                                             "reduce-mosquitoes-in-backyard.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/choose-right-mosquito-net.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/choose-right-mosquito-net.html",
+                      "title":  "How to Choose the Right Mosquito Net for Your Living Space - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/choose-right-mosquito-net.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/40OHcby"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "diy-magnetic-screen-installation-hacks.html",
+                                             "magnetic-vs-velcro-screens.html",
+                                             "nylon-vs-polyester-nets.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/clean-and-maintain-mosquito-screens.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/clean-and-maintain-mosquito-screens.html",
+                      "title":  "How to Clean and Maintain Your Mosquito Screens - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/clean-and-maintain-mosquito-screens.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4hL2Zrl"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../blog-posts/nylon-vs-polyester-nets.html",
+                                             "../blog-posts/top-5-mistakes-mosquito-nets.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/creative-uses-for-mosquito-nets.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/creative-uses-for-mosquito-nets.html",
+                      "title":  "10 Creative Uses for Mosquito Nets Beyond Insect Protection - MosquitoScreen.net",
+                      "meta_description":  "Discover 10 unexpected and practical ways to use mosquito nets beyond pest control, from stylish outdoor canopies to DIY storage solutions and creative decorations.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/creative-uses-for-mosquito-nets.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "10 Creative Uses for Mosquito Nets You Haven\u0027t Thought Of"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "best-camping-mosquito-nets.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "nylon-vs-polyester-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/diy-magnetic-screen-installation-hacks.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/diy-magnetic-screen-installation-hacks.html",
+                      "title":  "DIY Magnetic Mosquito Screen Installation Hacks - MosquitoScreen.net",
+                      "meta_description":  "Learn expert DIY hacks for installing magnetic mosquito screens efficiently and effectively. Get tips for better adhesion, stronger seals, and wind resistance.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/diy-magnetic-screen-installation-hacks.html",
+                      "h1":  [
+                                 "DIY Magnetic Mosquito Screen Installation Hacks"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../magnetic-doors.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "magnetic-vs-velcro-screens.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/diy-natural-mosquito-repellents.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/diy-natural-mosquito-repellents.html",
+                      "title":  "DIY Natural Mosquito Repellents - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/diy-natural-mosquito-repellents.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "magnetic-vs-velcro-screens.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/magnetic-vs-velcro-screens.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/magnetic-vs-velcro-screens.html",
+                      "title":  "Magnetic vs. Velcro Mosquito Screens: Which Is Better? (2025 Comparison)",
+                      "meta_description":  "Compare magnetic vs. Velcro mosquito screens with our comprehensive guide. Discover which type offers better durability, ease of use, and value for your home.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/magnetic-vs-velcro-screens.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "Magnetic vs. Velcro Mosquito Screens: Which Is Better?"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "diy-magnetic-screen-installation-hacks.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/mosquito-entry-points.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/mosquito-entry-points.html",
+                      "title":  "Common Mosquito Entry Points in Your Home and How to Block Them - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/mosquito-entry-points.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/40OHcby"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "choose-right-mosquito-net.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "diy-magnetic-screen-installation-hacks.html",
+                                             "diy-natural-mosquito-repellents.html",
+                                             "mosquito-proof-home-without-chemicals.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/mosquito-proof-home-without-chemicals.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/mosquito-proof-home-without-chemicals.html",
+                      "title":  "How to Mosquito-Proof Your Home Without Chemicals - MosquitoScreen.net",
+                      "meta_description":  "Discover natural and effective ways to keep mosquitoes out of your home without using harsh chemicals. From proper sealing to natural repellents, learn how to create a mosquito-free environment safely.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/mosquito-proof-home-without-chemicals.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "How to Mosquito-Proof Your Home Without Chemicals"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "creative-uses-for-mosquito-nets.html",
+                                             "diy-natural-mosquito-repellents.html",
+                                             "magnetic-vs-velcro-screens.html",
+                                             "reduce-mosquitoes-in-backyard.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/natural-plants-that-repel-mosquitoes.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/natural-plants-that-repel-mosquitoes.html",
+                      "title":  "10 Best Mosquito Repellent Plants That Actually Work | Natural Mosquito Control",
+                      "meta_description":  "Discover which mosquito repellent plants actually work. Our expert guide covers citronella, lavender, basil and more natural ways to keep mosquitoes away from your home and garden.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/natural-plants-that-repel-mosquitoes.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "10 Best Mosquito Repellent Plants That Actually Work"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "diy-natural-mosquito-repellents.html",
+                                             "mosquito-proof-home-without-chemicals.html",
+                                             "reduce-mosquitoes-in-backyard.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/nylon-vs-polyester-nets.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/nylon-vs-polyester-nets.html",
+                      "title":  "The Best Mosquito Net Material: Nylon vs. Polyester - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/nylon-vs-polyester-nets.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "magnetic-vs-velcro-screens.html",
+                                             "top-5-mistakes-mosquito-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/reduce-mosquitoes-in-backyard.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/reduce-mosquitoes-in-backyard.html",
+                      "title":  "How to Reduce Mosquitoes in Your Backyardâ€”Fast! - MosquitoScreen.net",
+                      "meta_description":  "Discover quick and effective ways to get rid of mosquitoes in your backyard, from eliminating standing water to using natural repellents and proper screening solutions.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/reduce-mosquitoes-in-backyard.html",
+                      "h1":  [
+                                 "MosquitoScreen.net",
+                                 "How to Reduce Mosquitoes in Your Backyardâ€”Fast!"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../local-pest-control.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "diy-natural-mosquito-repellents.html",
+                                             "magnetic-vs-velcro-screens.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/science-behind-mosquito-nets.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/science-behind-mosquito-nets.html",
+                      "title":  "The Science Behind How Mosquito Nets Actually Work - MosquitoScreen.net",
+                      "meta_description":  "Discover the science behind mosquito nets - from mesh size and material properties to insecticide treatments. Learn how these simple but effective barriers protect against mosquitoes.",
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/science-behind-mosquito-nets.html",
+                      "h1":  [
+                                 "The Science Behind How Mosquito Nets Actually Work"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../blog.html",
+                                             "../index.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "blog-posts/top-5-mistakes-mosquito-nets.html",
+                      "live_url":  "https://www.mosquitoscreen.net/blog-posts/top-5-mistakes-mosquito-nets.html",
+                      "title":  "Top 5 Mistakes to Avoid When Using Mosquito Nets - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/blog-posts/top-5-mistakes-mosquito-nets.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../blog.html",
+                                             "../index.html",
+                                             "../magnetic-doors.html",
+                                             "../mosquito-net-for-bed.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "clean-and-maintain-mosquito-screens.html",
+                                             "diy-magnetic-screen-installation-hacks.html",
+                                             "magnetic-vs-velcro-screens.html",
+                                             "nylon-vs-polyester-nets.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "index.html",
+                      "live_url":  "https://www.mosquitoscreen.net/",
+                      "title":  "MosquitoScreen.net â€” Bite-Free Living Made Simple",
+                      "meta_description":  "Choose the right mosquito nets and screens for outdoor spaces, windows, and beds. Clear sizing guidance, simple comparisons, and trusted products â€” without guesswork.",
+                      "canonical":  "https://www.mosquitoscreen.net/",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "local-pest-control.html",
+                      "live_url":  "https://www.mosquitoscreen.net/local-pest-control.html",
+                      "title":  "Find Local Pest Control Services Near You | Expert Mosquito Removal - MosquitoScreen.net",
+                      "meta_description":  "Connect with trusted local pest control experts specializing in mosquito removal and prevention. Get professional help for effective, long-lasting mosquito control.",
+                      "canonical":  "https://www.mosquitoscreen.net/local-pest-control.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "magnetic-doors.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "magnetic-doors.html",
+                      "live_url":  "https://www.mosquitoscreen.net/magnetic-doors.html",
+                      "title":  "Best Magnetic Screen Doors | Hands-Free Mosquito Protection - MosquitoScreen.net",
+                      "meta_description":  "Find the best magnetic screen doors for hands-free entry. Perfect for homes with kids and pets. Easy installation, durable materials, and effective mosquito protection.",
+                      "canonical":  "https://www.mosquitoscreen.net/magnetic-doors.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/3CzIM97",
+                                              "https://amzn.to/3CzIM97"
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "blog-posts/magnetic-vs-velcro-screens.html",
+                                             "blog-posts/top-5-mistakes-mosquito-nets.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "magnetic-doors.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "mosquito-net-for-bed.html",
+                      "live_url":  "https://www.mosquitoscreen.net/mosquito-net-for-bed.html",
+                      "title":  "Mosquito Net for Bed â€” Sleep Bite-Free Every Night",
+                      "meta_description":  "Clear, practical guides for choosing mosquito nets for beds. Learn sizing, materials, hanging methods, and care so you sleep bite-free without guessing.",
+                      "canonical":  "https://www.mosquitoscreen.net/mosquito-net-for-bed.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/49Eg0BX"
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "bed/basics.html",
+                                             "bed/hanging-installation.html",
+                                             "bed/materials.html",
+                                             "bed/sizing-guide.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor.html",
+                      "title":  "Outdoor Mosquito Nets â€” Patio, Porch \u0026 Garden Comfort",
+                      "meta_description":  "Clear, practical guides for choosing outdoor mosquito nets. Learn sizing, mesh types, wind behavior, entry styles, seasonal care, and how to turn patios and porches into bite-free spaces.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "outdoor/basics.html",
+                                             "outdoor/doors-and-walkthrough.html",
+                                             "outdoor/heat-and-airflow.html",
+                                             "outdoor/measuring-guide.html",
+                                             "outdoor/mesh-types.html",
+                                             "outdoor/preventing-net-tearing.html",
+                                             "outdoor/privacy-and-hybrid.html",
+                                             "outdoor/seasonal-storage.html",
+                                             "outdoor/storm-prep-checklist.html",
+                                             "outdoor/wind-and-stability.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/basics.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/basics.html",
+                      "title":  "Outdoor Mosquito Nets: Basics â€” What They Can (and Cannot) Do",
+                      "meta_description":  "A calm, practical overview of outdoor mosquito nets. Understand what they can and cannot do for bite protection, airflow, shade, and everyday outdoor comfort before choosing a setup.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/basics.html",
+                      "h1":  [
+                                 "Outdoor Mosquito Nets: Basics"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "doors-and-walkthrough.html",
+                                             "measuring-guide.html",
+                                             "mesh-types.html",
+                                             "seasonal-storage.html",
+                                             "wind-and-stability.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/doors-and-walkthrough.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/doors-and-walkthrough.html",
+                      "title":  "Zippers, Magnetic Doors \u0026 Walk-Through Use for Outdoor Mosquito Nets",
+                      "meta_description":  "Plan doors and entry points for outdoor mosquito nets. Compare zippers, magnetic seams, roll-up panels, and tie-backs to avoid daily frustration when walking in and out.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/doors-and-walkthrough.html",
+                      "h1":  [
+                                 "Doors \u0026 Walk-Through Use"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "measuring-guide.html",
+                                             "mesh-types.html",
+                                             "privacy-and-hybrid.html",
+                                             "wind-and-stability.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/heat-and-airflow.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/heat-and-airflow.html",
+                      "title":  "Heat \u0026 Airflow Under Outdoor Mosquito Nets",
+                      "meta_description":  "Learn how outdoor mosquito nets affect airflow and heat. Understand ventilation, shade behavior, evening cooling, and how to keep patios and porches comfortable in warm weather.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/heat-and-airflow.html",
+                      "h1":  [
+                                 "Heat \u0026 Airflow Under Outdoor Mosquito Nets"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "mesh-types.html",
+                                             "privacy-and-hybrid.html",
+                                             "wind-and-stability.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/measuring-guide.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/measuring-guide.html",
+                      "title":  "Measuring Your Patio or Porch for Outdoor Mosquito Nets",
+                      "meta_description":  "Learn how to measure patios, porches, pergolas, and garden seating areas so outdoor mosquito nets fit correctly. Avoid sagging, gaps, and frustration with this simple measuring guide.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/measuring-guide.html",
+                      "h1":  [
+                                 "Measuring Guide for Outdoor Mosquito Nets"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "doors-and-walkthrough.html",
+                                             "mesh-types.html",
+                                             "seasonal-storage.html",
+                                             "wind-and-stability.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/mesh-types.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/mesh-types.html",
+                      "title":  "Mesh Types for Outdoor Mosquito Nets â€” Visibility, Airflow \u0026 Bite Protection",
+                      "meta_description":  "Understand outdoor mosquito net mesh types. Compare fine mesh vs standard mesh vs decorative netting for airflow, visibility, bite protection, and outdoor comfort.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/mesh-types.html",
+                      "h1":  [
+                                 "Mesh Types for Outdoor Mosquito Nets"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "measuring-guide.html",
+                                             "preventing-net-tearing.html",
+                                             "privacy-and-hybrid.html",
+                                             "wind-and-stability.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/preventing-net-tearing.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/preventing-net-tearing.html",
+                      "title":  "Preventing Outdoor Mosquito Net Tearing",
+                      "meta_description":  "Learn how to prevent outdoor mosquito net tearing. Improve durability with proper hanging, tensioning, storage, and simple reinforcement methods.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/preventing-net-tearing.html",
+                      "h1":  [
+                                 "Preventing Net Tearing"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "seasonal-storage.html",
+                                             "wind-and-stability.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/privacy-and-hybrid.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/privacy-and-hybrid.html",
+                      "title":  "Privacy \u0026 Hybrid Outdoor Mosquito Net Setups",
+                      "meta_description":  "Combine outdoor mosquito nets with curtains or privacy panels. Learn hybrid setups that balance airflow, visibility, and privacy for patios and porches.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/privacy-and-hybrid.html",
+                      "h1":  [
+                                 "Privacy \u0026 Hybrid Outdoor Net Setups"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "doors-and-walkthrough.html",
+                                             "mesh-types.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/seasonal-storage.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/seasonal-storage.html",
+                      "title":  "Seasonal Removal \u0026 Storage of Outdoor Mosquito Nets",
+                      "meta_description":  "Learn how to remove, clean, and store outdoor mosquito nets at the end of the season to extend lifespan and prevent mildew or tearing.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/seasonal-storage.html",
+                      "h1":  [
+                                 "Seasonal Removal \u0026 Storage"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/storm-prep-checklist.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/storm-prep-checklist.html",
+                      "title":  "Storm Prep Checklist for Outdoor Mosquito Nets",
+                      "meta_description":  "A simple storm preparation checklist for outdoor mosquito nets. Protect your netting before heavy rain or wind to prevent damage.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/storm-prep-checklist.html",
+                      "h1":  [
+                                 "Storm-Prep Checklist"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "preventing-net-tearing.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "outdoor/wind-and-stability.html",
+                      "live_url":  "https://www.mosquitoscreen.net/outdoor/wind-and-stability.html",
+                      "title":  "Wind \u0026 Stability Guide for Outdoor Mosquito Nets",
+                      "meta_description":  "Understand how outdoor mosquito nets behave in wind. Learn how to reduce sagging, flapping, corner gaps, and strain so your net stays calm and effective in real-world conditions.",
+                      "canonical":  "https://www.mosquitoscreen.net/outdoor/wind-and-stability.html",
+                      "h1":  [
+                                 "Wind \u0026 Stability for Outdoor Mosquito Nets"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/4raST7V"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../outdoor.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "measuring-guide.html",
+                                             "mesh-types.html",
+                                             "preventing-net-tearing.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "privacy.html",
+                      "live_url":  "https://www.mosquitoscreen.net/privacy.html",
+                      "title":  "Privacy Policy - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/privacy.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "terms.html",
+                      "live_url":  "https://www.mosquitoscreen.net/terms.html",
+                      "title":  "Terms of Service - MosquitoScreen.net",
+                      "meta_description":  null,
+                      "canonical":  "https://www.mosquitoscreen.net/terms.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "windows.html",
+                      "live_url":  "https://www.mosquitoscreen.net/windows.html",
+                      "title":  "Mosquito Nets for Windows â€” Fresh Air Without Bugs",
+                      "meta_description":  "Simple guides for choosing mosquito nets for windows. Learn sizing, magnetic vs fixed screens, and how to keep windows open without letting insects in.",
+                      "canonical":  "https://www.mosquitoscreen.net/windows.html",
+                      "h1":  [
+                                 "MosquitoScreen.net"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/3Ly8pf7"
+                                          ],
+                      "internal_links":  [
+                                             "affiliate.html",
+                                             "blog.html",
+                                             "index.html",
+                                             "local-pest-control.html",
+                                             "mosquito-net-for-bed.html",
+                                             "outdoor.html",
+                                             "privacy.html",
+                                             "terms.html",
+                                             "windows.html",
+                                             "windows/basics.html",
+                                             "windows/magnetic-vs-fixed.html",
+                                             "windows/measuring-guide.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "windows/basics.html",
+                      "live_url":  "https://www.mosquitoscreen.net/windows/basics.html",
+                      "title":  "Window Mosquito Net Basics",
+                      "meta_description":  "Quick overview of window mosquito nets. Understand airflow, protection, and common installation styles before buying.",
+                      "canonical":  "https://www.mosquitoscreen.net/windows/basics.html",
+                      "h1":  [
+                                 "Window Net Basics"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/3Ly8pf7"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "magnetic-vs-fixed.html",
+                                             "measuring-guide.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "windows/magnetic-vs-fixed.html",
+                      "live_url":  "https://www.mosquitoscreen.net/windows/magnetic-vs-fixed.html",
+                      "title":  "Magnetic vs Fixed Window Mosquito Nets",
+                      "meta_description":  "Compare magnetic and fixed window mosquito nets. Choose the right mounting style for convenience, durability, and daily use.",
+                      "canonical":  "https://www.mosquitoscreen.net/windows/magnetic-vs-fixed.html",
+                      "h1":  [
+                                 "Magnetic vs Fixed Screens"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/3Ly8pf7"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "basics.html",
+                                             "measuring-guide.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  },
+                  {
+                      "source_path":  "windows/measuring-guide.html",
+                      "live_url":  "https://www.mosquitoscreen.net/windows/measuring-guide.html",
+                      "title":  "How to Measure for Window Mosquito Nets",
+                      "meta_description":  "Measure window openings correctly so mosquito nets fit snugly without gaps or sagging.",
+                      "canonical":  "https://www.mosquitoscreen.net/windows/measuring-guide.html",
+                      "h1":  [
+                                 "Window Net Measuring Guide"
+                             ],
+                      "affiliate_links":  [
+                                              "https://amzn.to/3Ly8pf7"
+                                          ],
+                      "internal_links":  [
+                                             "../affiliate.html",
+                                             "../local-pest-control.html",
+                                             "../privacy.html",
+                                             "../terms.html",
+                                             "../windows.html",
+                                             "basics.html",
+                                             "magnetic-vs-fixed.html"
+                                         ],
+                      "preservation_action":  "retain exact URL"
+                  }
+              ]
+}
