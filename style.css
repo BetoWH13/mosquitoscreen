@@ -33,7 +33,8 @@ header {
     padding-bottom: 30px;
 }
 
-header h1 {
+header h1,
+    header .site-title {
     font-size: 2.5em;
     margin-bottom: 10px;
 }
@@ -98,7 +99,8 @@ main {
     color: #e0e0e0;
 }
 
-.hero-content h2 {
+.hero-content h1,
+    .hero-content h2 {
     font-size: 2.5em;
     margin-bottom: 15px;
     line-height: 1.2;
@@ -616,7 +618,8 @@ footer {
         padding: 40px 0;
     }
 
-    header h1 {
+    header h1,
+    header .site-title {
         font-size: 2em;
     }
 
@@ -629,6 +632,7 @@ footer {
         padding: 40px 15px;
     }
 
+    .hero-content h1,
     .hero-content h2 {
         font-size: 1.8em;
     }
@@ -733,7 +737,8 @@ footer {
         padding: 10px;
     }
 
-    header h1 {
+    header h1,
+    header .site-title {
         font-size: 1.8em;
     }
     
@@ -767,6 +772,7 @@ footer {
     }
 
     /* Hero Mobile Optimization */
+    .hero-content h1,
     .hero-content h2 {
         font-size: 2em;
     }
@@ -790,3 +796,7 @@ footer {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
 }
+
+header .site-title { margin: 0; }
+.error-page { max-width: 48rem; padding: 5rem 0; }
+.error-page .eyebrow { color: #0b6b57; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
