@@ -38,14 +38,21 @@ The machine-readable baseline is `docs/preservation-manifest.json`.
 - Lychee offline: 638 links checked, 566 local checks passed, zero errors, 72 network links excluded as expected.
 - Lychee online: 638 links checked, 638 passed, zero errors; 10 ordinary redirects followed.
 
-## Deployment checks still required
+## Deploy-preview verification
 
-After deploying to a preview or production branch, verify:
+Preview: `https://deploy-preview-1--mosquitoscreen.netlify.app`
 
-1. `https://mosquitoscreen.net/*` returns one 301 to the equivalent `https://www.mosquitoscreen.net/*` path.
-2. `/index.html` and `/bed-nets.html` return their intended one-hop 301s.
-3. A random nonexistent URL returns HTTP 404 and renders `404.html`.
-4. The deployed sitemap and robots file use `www` exclusively.
-5. Google Search Console uses the domain property or has both host variants monitored during consolidation.
+- `/` returned HTTP 200 and the canonical points to `https://www.mosquitoscreen.net/`.
+- `/index.html` returned a one-hop 301 to `/`.
+- `/bed-nets.html` returned a one-hop 301 to `/mosquito-net-for-bed.html`.
+- A random nonexistent URL returned HTTP 404, rendered `404.html`, and included `noindex, follow`.
+- Preview `robots.txt` points to the `www` sitemap.
+- Preview `sitemap.xml` returned HTTP 200 with 41 URLs and zero non-`www` locations.
+- Netlify header, redirect-rule, and deploy-preview checks passed.
 
-No deployment, commit, push, or GitHub mutation was performed in this pass.
+## Remaining post-merge checks
+
+1. Confirm `https://mosquitoscreen.net/*` returns one 301 to the equivalent `https://www.mosquitoscreen.net/*` custom-domain path. Netlify validated the rule, but deploy previews cannot exercise the production apex hostname.
+2. Confirm the Search Console domain property monitors both host variants during consolidation.
+
+Production `main` remains unchanged until the draft pull request is reviewed and merged.
