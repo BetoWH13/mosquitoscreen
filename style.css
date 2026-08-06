@@ -934,3 +934,125 @@ footer .small {
   opacity: .38;
   pointer-events: none;
 }
+
+/* Blog directory */
+.blog-directory-hero .hero-choices a {
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--line);
+  color: var(--text);
+  font-weight: 740;
+  text-decoration: none;
+}
+
+.directory-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, .65fr);
+  align-items: end;
+  gap: 32px;
+}
+
+.directory-intro .eyebrow {
+  grid-column: 1 / -1;
+  margin-bottom: -14px;
+}
+
+.directory-intro h2,
+.topic-heading h2 {
+  margin-bottom: 0;
+}
+
+.directory-intro > p:last-child,
+.topic-heading > p {
+  max-width: 58ch;
+  margin: 0;
+  color: var(--muted);
+}
+
+.topic-section {
+  scroll-margin-top: 110px;
+}
+
+.topic-count {
+  margin: 0 0 12px;
+  color: var(--muted);
+  font-size: .9rem;
+  font-weight: 720;
+}
+
+.topic-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, .8fr);
+  align-items: end;
+  gap: 32px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  border-top: 1px solid var(--line);
+}
+
+.article-directory-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.article-directory-card {
+  display: flex;
+  min-height: 210px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none;
+  transition: transform .22s ease, border-color .22s ease, background-color .22s ease;
+}
+
+.article-directory-card:nth-child(3n + 1) {
+  background: var(--surface-accent);
+}
+
+.article-directory-card:hover {
+  border-color: var(--accent);
+  background: var(--surface-accent);
+  color: var(--text);
+  transform: translateY(-3px);
+}
+
+.article-directory-card > span {
+  margin-bottom: auto;
+  color: var(--accent-strong);
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.article-directory-card h3 {
+  max-width: 23ch;
+  margin: 34px 0 8px;
+  letter-spacing: -.035em;
+}
+
+.article-directory-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+@media (max-width: 760px) {
+  .directory-intro,
+  .topic-heading,
+  .article-directory-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .directory-intro .eyebrow {
+    margin-bottom: -6px;
+  }
+
+  .article-directory-card {
+    min-height: 190px;
+  }
+}
